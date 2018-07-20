@@ -1,6 +1,6 @@
 # VISTA (Visual Web Test Repair)
 
-VISTA (Visual Web Test Repair) is an open-source research prototype tool to automatically repair web test cases developed with the popular Selenium Webdriver test automation framework. The tool is written in Java, and supports test cases written in Java.  page objects from an existing web application for end-to-end testing purposes
+VISTA (Visual Web Test Repair) is an open-source research prototype tool to automatically repair web test cases developed with the popular Selenium Webdriver test automation framework. The tool is written in Java, and supports test cases written in Java.
 
 ###  Publications
 
